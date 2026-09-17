@@ -27,9 +27,14 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tarun-dev03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/tarun-dev03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
