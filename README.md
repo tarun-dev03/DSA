@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tarun-dev03/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/tarun-dev03/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/tarun-dev03/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
