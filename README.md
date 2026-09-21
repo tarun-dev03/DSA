@@ -32,10 +32,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun-dev03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tarun-dev03/DSA/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
