@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -31,11 +32,13 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun-dev03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tarun-dev03/DSA/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
 ## Two Pointers
@@ -63,5 +66,14 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
