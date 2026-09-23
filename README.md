@@ -21,6 +21,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/tarun-dev03/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/tarun-dev03/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
 | [1922-count-good-numbers](https://github.com/tarun-dev03/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
