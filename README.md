@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -51,6 +52,7 @@
 | [0027-remove-element](https://github.com/tarun-dev03/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -94,8 +96,10 @@
 | [0021-merge-two-sorted-lists](https://github.com/tarun-dev03/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tarun-dev03/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
