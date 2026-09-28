@@ -7,6 +7,7 @@
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [0009-palindrome-number](https://github.com/tarun-dev03/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/tarun-dev03/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [1922-count-good-numbers](https://github.com/tarun-dev03/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -55,6 +57,7 @@
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
