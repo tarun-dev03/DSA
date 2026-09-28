@@ -9,6 +9,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0125-valid-palindrome](https://github.com/tarun-dev03/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tarun-dev03/DSA/tree/master/0344-reverse-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
