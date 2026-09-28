@@ -15,6 +15,7 @@
 | [0008-string-to-integer-atoi](https://github.com/tarun-dev03/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/tarun-dev03/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/tarun-dev03/DSA/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
