@@ -32,12 +32,14 @@
 | [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/tarun-dev03/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/tarun-dev03/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tarun-dev03/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tarun-dev03/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/tarun-dev03/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/tarun-dev03/DSA/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
@@ -145,4 +147,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tarun-dev03/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tarun-dev03/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
