@@ -31,6 +31,7 @@
 | [0050-powx-n](https://github.com/tarun-dev03/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
 | [1922-count-good-numbers](https://github.com/tarun-dev03/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
+| [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,4 +125,24 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
