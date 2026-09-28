@@ -17,6 +17,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -53,6 +54,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
@@ -97,9 +99,18 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tarun-dev03/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
