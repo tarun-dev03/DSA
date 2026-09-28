@@ -39,6 +39,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tarun-dev03/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tarun-dev03/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/tarun-dev03/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/tarun-dev03/DSA/tree/master/1922-count-good-numbers) |
 ## Array
@@ -113,6 +114,7 @@
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
