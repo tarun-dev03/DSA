@@ -27,6 +27,9 @@ class Solution {
             if (i > index && candidates[i] == candidates[i - 1]) {
                 continue;
             }
+            if (candidates[i] > target) {
+                break;
+            }
 
             current.add(candidates[i]);
 
