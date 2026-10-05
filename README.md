@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/tarun-dev03/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
@@ -52,6 +53,7 @@
 | [0040-combination-sum-ii](https://github.com/tarun-dev03/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tarun-dev03/DSA/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/tarun-dev03/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/tarun-dev03/DSA/tree/master/0216-combination-sum-iii) |
 ## Backtracking
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tarun-dev03/DSA/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tarun-dev03/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
