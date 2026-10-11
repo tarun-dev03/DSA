@@ -31,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/tarun-dev03/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/tarun-dev03/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/tarun-dev03/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/tarun-dev03/DSA/tree/master/0509-fibonacci-number) |
@@ -54,6 +55,7 @@
 | [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tarun-dev03/DSA/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/tarun-dev03/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/tarun-dev03/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/tarun-dev03/DSA/tree/master/0216-combination-sum-iii) |
 | [0485-max-consecutive-ones](https://github.com/tarun-dev03/DSA/tree/master/0485-max-consecutive-ones) |
@@ -76,6 +78,7 @@
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/tarun-dev03/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tarun-dev03/DSA/tree/master/0344-reverse-string) |
 ## String Matching
