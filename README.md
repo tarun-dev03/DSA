@@ -56,6 +56,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/tarun-dev03/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/tarun-dev03/DSA/tree/master/0216-combination-sum-iii) |
+| [0485-max-consecutive-ones](https://github.com/tarun-dev03/DSA/tree/master/0485-max-consecutive-ones) |
 ## Backtracking
 |  |
 | ------- |
