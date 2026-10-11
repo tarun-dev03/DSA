@@ -10,6 +10,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | [0189-rotate-array](https://github.com/tarun-dev03/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/tarun-dev03/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/tarun-dev03/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -58,6 +61,7 @@
 | [0189-rotate-array](https://github.com/tarun-dev03/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/tarun-dev03/DSA/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tarun-dev03/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tarun-dev03/DSA/tree/master/0485-max-consecutive-ones) |
 ## Backtracking
@@ -116,6 +120,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -175,6 +180,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tarun-dev03/DSA/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
