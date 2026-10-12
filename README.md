@@ -64,6 +64,7 @@
 | [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tarun-dev03/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tarun-dev03/DSA/tree/master/0485-max-consecutive-ones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarun-dev03/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,4 +186,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tarun-dev03/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarun-dev03/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarun-dev03/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
