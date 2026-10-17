@@ -66,6 +66,7 @@
 | [0485-max-consecutive-ones](https://github.com/tarun-dev03/DSA/tree/master/0485-max-consecutive-ones) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tarun-dev03/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarun-dev03/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/tarun-dev03/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0069-sqrtx](https://github.com/tarun-dev03/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tarun-dev03/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/tarun-dev03/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Newton's Method
 |  |
 | ------- |
