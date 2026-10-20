@@ -137,6 +137,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tarun-dev03/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tarun-dev03/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
@@ -206,6 +207,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tarun-dev03/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -213,6 +215,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tarun-dev03/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -220,9 +223,11 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tarun-dev03/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
