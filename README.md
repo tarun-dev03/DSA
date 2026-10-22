@@ -57,6 +57,7 @@
 | [0040-combination-sum-ii](https://github.com/tarun-dev03/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/tarun-dev03/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tarun-dev03/DSA/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/tarun-dev03/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/tarun-dev03/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/tarun-dev03/DSA/tree/master/0204-count-primes) |
@@ -151,6 +152,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/tarun-dev03/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -207,6 +209,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tarun-dev03/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -226,6 +229,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tarun-dev03/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tarun-dev03/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -241,4 +245,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
