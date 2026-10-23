@@ -138,6 +138,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tarun-dev03/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tarun-dev03/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/tarun-dev03/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarun-dev03/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -211,6 +212,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tarun-dev03/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -233,6 +235,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tarun-dev03/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -253,4 +257,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
