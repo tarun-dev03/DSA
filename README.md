@@ -215,6 +215,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tarun-dev03/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tarun-dev03/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -241,6 +242,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tarun-dev03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tarun-dev03/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tarun-dev03/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -253,6 +255,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-dev03/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tarun-dev03/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tarun-dev03/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun-dev03/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -272,6 +275,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tarun-dev03/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tarun-dev03/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
