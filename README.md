@@ -17,6 +17,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/tarun-dev03/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/tarun-dev03/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tarun-dev03/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tarun-dev03/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
@@ -75,6 +76,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tarun-dev03/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tarun-dev03/DSA/tree/master/0040-combination-sum-ii) |
@@ -186,6 +188,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tarun-dev03/DSA/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun-dev03/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/tarun-dev03/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -309,4 +312,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarun-dev03/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tarun-dev03/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
