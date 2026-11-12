@@ -12,6 +12,7 @@
 | [0202-happy-number](https://github.com/tarun-dev03/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/tarun-dev03/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/tarun-dev03/DSA/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/tarun-dev03/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -71,6 +72,7 @@
 | [0268-missing-number](https://github.com/tarun-dev03/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tarun-dev03/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tarun-dev03/DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/tarun-dev03/DSA/tree/master/0496-next-greater-element-i) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tarun-dev03/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarun-dev03/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tarun-dev03/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -315,6 +317,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/tarun-dev03/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/tarun-dev03/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tarun-dev03/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/tarun-dev03/DSA/tree/master/0496-next-greater-element-i) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -338,4 +341,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tarun-dev03/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tarun-dev03/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tarun-dev03/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
