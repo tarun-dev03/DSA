@@ -74,6 +74,7 @@
 | [0485-max-consecutive-ones](https://github.com/tarun-dev03/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/tarun-dev03/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun-dev03/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/tarun-dev03/DSA/tree/master/0735-asteroid-collision) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tarun-dev03/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/tarun-dev03/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tarun-dev03/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -320,6 +321,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/tarun-dev03/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/tarun-dev03/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun-dev03/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/tarun-dev03/DSA/tree/master/0735-asteroid-collision) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -348,4 +350,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tarun-dev03/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun-dev03/DSA/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/tarun-dev03/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
