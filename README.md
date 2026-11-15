@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tarun-dev03/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tarun-dev03/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/tarun-dev03/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarun-dev03/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tarun-dev03/DSA/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/tarun-dev03/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tarun-dev03/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tarun-dev03/DSA/tree/master/0040-combination-sum-ii) |
@@ -129,6 +131,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tarun-dev03/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tarun-dev03/DSA/tree/master/0037-sudoku-solver) |
 ## Dancing Links
 |  |
